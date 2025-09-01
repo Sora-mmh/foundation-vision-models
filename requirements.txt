@@ -1,0 +1,10 @@
+# torch>=1.13.0
+# torchvision>=0.14.0
+# torchaudio>=0.13.0
+transformers>=4.26.0
+# timm>=0.6.0
+# einops>=0.6.0
+# numpy>=1.21.0
+# matplotlib>=3.5.0
+# tqdm>=4.64.0
+open-clip-torch>=2.0.0
